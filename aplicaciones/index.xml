@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mis aplicaciones on Miss Mariela Ciencia</title>
+    <link>https://alexg3157.github.io/MissMarielaCiencia/aplicaciones/</link>
+    <description>Recent content in Mis aplicaciones on Miss Mariela Ciencia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://alexg3157.github.io/MissMarielaCiencia/aplicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elementos AR</title>
+      <link>https://alexg3157.github.io/MissMarielaCiencia/aplicaciones/elementos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexg3157.github.io/MissMarielaCiencia/aplicaciones/elementos/</guid>
+      <description>¿Qué contiene esta app? Esta es una aplicación que hace uso de la realidad aumentada y de los entornos tridimensionales para mejorar la comprensión de conceptos abstractos de química básica,. Podrás observar los distintos modelos atómicos, algunas configuraciones electrónicas, la disposición de las distinas partículas en el núcelo atómico y las formas de los orbitales en el modelo de Schrödinger.
+Temas  Modelos atómicos Partículas subatómicas Elementos Modelo de Schrödinger  </description>
+    </item>
+    
+    <item>
+      <title>Hibridación del carbono AR</title>
+      <link>https://alexg3157.github.io/MissMarielaCiencia/aplicaciones/hibridacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexg3157.github.io/MissMarielaCiencia/aplicaciones/hibridacion/</guid>
+      <description>¿Qué contiene esta app? Esta es una aplicación que hace uso de la realidad aumentada para mejorar la comprensión de diversos conceptos un poco abstractos, como la hibridación. En la primera sección, hibridación, podrás ver los orbitales s y p de un átomo de carbono y podrás observar el proceso de  hibridación. Además, podrás ver cómo se enlazan átomos de carbono dependiendo su tipo de hibridación. En la segunda sección, grupos funcionales, podrás ver distintas moléculas que contienen un cierto grupo funcional, dichas moléculas aparecerán sobre una imágen que tiene relación con el uso de dicho grupo funcional.</description>
+    </item>
+    
+  </channel>
+</rss>
