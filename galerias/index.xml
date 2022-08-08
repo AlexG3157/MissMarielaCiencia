@@ -8,19 +8,19 @@
     <language>en-us</language><atom:link href="https://alexg3157.github.io/MissMarielaCiencia/galerias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Galeria AR de Hibridación del Carbono</title>
-      <link>https://alexg3157.github.io/MissMarielaCiencia/galerias/elementos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexg3157.github.io/MissMarielaCiencia/galerias/elementos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Galeria AR de Hibridación del Carbono</title>
       <link>https://alexg3157.github.io/MissMarielaCiencia/galerias/hibridacion-del-carbono/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alexg3157.github.io/MissMarielaCiencia/galerias/hibridacion-del-carbono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galeria de ElementosAR</title>
+      <link>https://alexg3157.github.io/MissMarielaCiencia/galerias/elementos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexg3157.github.io/MissMarielaCiencia/galerias/elementos/</guid>
       <description></description>
     </item>
     
